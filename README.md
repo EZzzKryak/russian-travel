@@ -18,4 +18,4 @@
 ___
 PS Ну и как обычно - Да прибудет с нами :metal:
 
-PPS Ревьюеру пламенный :kiss:. Парни, no homo :laughing:, вам :hand:.
+PPS Ревьюеру пламенный :kiss:. Парни, no homo :wink:, вам :hand:.
