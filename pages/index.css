@@ -1,16 +1,9 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/header/_width/header_width_adaptive.css);
-@import url(../blocks/lead/_width/lead_width_adaptive.css);
-@import url(../blocks/intro/_width/intro_width_adaptive.css);
-@import url(../blocks/photo-grid/_width/photo-grid_width_adaptive.css);
-@import url(../blocks/places/_width/places_width_adaptive.css);
-@import url(../blocks/cover/_width/cover_width_adaptive.css);
-@import url(../blocks/footer/_width/footer_width_adaptive.css);
-
-@import url(../blocks/pos-center/pos-center.css);
+@import url(../blocks/body/_theme-color/body_theme-color.css);
 
 @import url(../blocks/link/link.css);
 @import url(../blocks/link/_active/link_active.css);
@@ -29,7 +22,6 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__text/intro__text.css);
-@import url(../blocks/intro/__wrapper/intro__wrapper.css);
 @import url(../blocks/intro/__list-num/intro__list-num.css);
 
 @import url(../blocks/lead/lead.css);
@@ -56,7 +48,6 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__text-wrapper/cover__text-wrapper.css);
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__background/cover__background.css);
 
