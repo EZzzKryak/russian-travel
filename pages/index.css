@@ -3,7 +3,7 @@
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/theme-color/theme-color.css);
+@import url(../blocks/content/_background/content_background_color.css);
 
 @import url(../blocks/link/link.css);
 @import url(../blocks/link/_active/link_active.css);
